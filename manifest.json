@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+
+  "name": "xkcd substitutions",
+  "description": "This extension replaces text based on http://xkcd.com/1288/",
+  "version": "1.0",
+
+  }
+}
