@@ -5,7 +5,6 @@
   "description": "This extension replaces text based on http://xkcd.com/1288/",
   "version": "1.0",
 
-  "background_page": "background.html",
   "permissions": [
     "tabs", "http://*/*"
   ],
