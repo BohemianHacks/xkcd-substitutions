@@ -16,7 +16,7 @@ document.body.innerHTML = document.body.innerHTML.replace(new RegExp("electric",
 
 document.body.innerHTML = document.body.innerHTML.replace(new RegExp("Senator", "gi"), "Elf-Lord");
 
-document.body.innerHTML = document.body.innerHTML.replace(new RegExp("car", "gi"), "Cat");
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("car ", "gi"), "Cat");
 
 document.body.innerHTML = document.body.innerHTML.replace(new RegExp("election", "gi"), "Eating Contest");
 
